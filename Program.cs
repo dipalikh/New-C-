@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-//Task 1: Name Input Program.
+//Task 1: Name Input Program
 
 Console.Write("Please Enter your name:");  //Ask the user to enter their name
 
@@ -19,7 +19,7 @@ if ( age < 18)
 {
   Console.WriteLine("You must be 18 years old to use this service.");
 }
- //entered age is below 18, display the message:nnn
+ //entered age is below 18, display the message:
 //else if ( age >= 18)
 else 
 { 

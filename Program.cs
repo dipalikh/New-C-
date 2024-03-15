@@ -19,7 +19,7 @@ if ( age < 18)
 {
   Console.WriteLine("You must be 18 years old to use this service.");
 }
- //entered age is below 18, display the message:
+ //entered age is below 18, display the message:nnn
 //else if ( age >= 18)
 else 
 { 
